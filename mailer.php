@@ -1,5 +1,4 @@
 <?php
-
 	$data['mailDuSpammeur'] = $_POST['mail'];
 	$data['objet'] = $_POST['objet'];
 	$data['message'] = $_POST['message'];
