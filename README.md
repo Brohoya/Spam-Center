@@ -1,8 +1,9 @@
 # Spam-Center
 Conçu pour arroser les arroseurs
 
+
 ***Installation***
 
-1- Installer [WampServer, (https://www.wampserver.com/)] \n
+1- Installer [WampServer](https://www.wampserver.com/)
 2- Placer le dossier **/sendmail/** dans **../wamp64/**
 3- 
