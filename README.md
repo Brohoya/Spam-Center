@@ -11,5 +11,5 @@ Conçu pour arroser les arroseurs
 + Aller dans les paramêtres du compte et activer le **Accès moins sécurisé des applications** ![ici](https://manava.abricode.fr/images/aide/gmail_7.png)
 + Modifier fichier **sendmail.ini** pour ajouter les données de l'adresse email dans **auth_username=** et **auth_password=**
 + Modifier le fichier **php.ini** de WampServer 
-![ici](https://john-dugan.com/wp-content/uploads/2014/07/update-php-wamp-php-ini.png)
+![ici](https://i.stack.imgur.com/66eSX.png)
 + Ajouter la localisation de **sendmail.exe** à **sendmail_path =** (par exemple: "C:\wamp64\sendmail\sendmail.exe") 
