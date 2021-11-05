@@ -1,4 +1,8 @@
+var spam = 0
+
 $(document).on('click', '#spam', () => {
+    spam += 1
+    $('#nbSpam').text(spam.toString())
 
     var fd = new FormData();
     fd.append('mail', $('#adresseMail').val());
@@ -22,4 +26,5 @@ $(document).on('click', '#clear', () => {
     $('#messageMail').val("");
     $('#objet').val("");
     $('#adresseMail').val("");
+    $('#nbSpam').text("")
 })
