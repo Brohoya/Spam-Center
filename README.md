@@ -4,6 +4,6 @@ Conçu pour arroser les arroseurs
 
 ***Installation***
 
-1- Installer [WampServer](https://www.wampserver.com/)
-2- Placer le dossier **/sendmail/** dans **../wamp64/**
-3- 
++ Installer [WampServer](https://www.wampserver.com/)
++ Placer le dossier **/sendmail/** dans **../wamp64/**
++  
