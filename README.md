@@ -1,5 +1,5 @@
 # Spam-Center
-Conçu pour arroser les arroseurs
+Conçu pour arroser les arroseurs. Ne pas l'utiliser pour arroser une personne qui ne vous aurait pas arrosé, je ne suis pas responsable de l'usage de chacun.
 
 
 ***Installation***
