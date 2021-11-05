@@ -18,7 +18,6 @@ $(document).on('click', '#spam', () => {
         processData: false,
         contentType: false,
     });
-    
     console.log("Spamed avec succès");
 })
 
