@@ -1,8 +1,8 @@
 # Spam-Center
-Conçu uniquement pour arroser les arroseurs. Ne pas l'utiliser pour arroser une personne qui ne vous aurait pas arrosé, je ne suis pas responsable de l'usage de chacun.
+Pas responsable de l'usage de chacun.
 
 
-***Installation***
+***Installation en local***
 
 + Installer et lancer [WampServer](https://www.wampserver.com/)
 + Télécharger le zip **Spam-Center** et l'extraire dans le dossier **.../wamp64/www/**
